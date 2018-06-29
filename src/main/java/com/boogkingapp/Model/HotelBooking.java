@@ -5,6 +5,9 @@ public class HotelBooking {
     private double pricePerNight;
     private int numberOfNights;
 
+    public HotelBooking() {
+    }
+
     public HotelBooking(String hotelName, double pricePerNight, int numberOfNights) {
         this.hotelName = hotelName;
         this.pricePerNight = pricePerNight;
