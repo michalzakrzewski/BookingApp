@@ -26,6 +26,7 @@ public class DatabaseSeeder implements CommandLineRunner {
         hotelBookingList.add(new HotelBooking("Orbis", 200, 3));
         hotelBookingList.add(new HotelBooking("Neptun", 150, 6));
         hotelBookingList.add(new HotelBooking("PZM", 90, 7));
+        hotelBookingList.add(new HotelBooking("IAI", 88, 9));
 
         bookingRepository.saveAll(hotelBookingList);
     }
