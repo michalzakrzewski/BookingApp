@@ -26,3 +26,4 @@
 
 ### Ignore Files ###
 .db
+bookings.db.mv.db
