@@ -15,14 +15,16 @@ public class HotelBooking {
     private String hotelName;
     private double pricePerNight;
     private int numberOfNights;
+    private double TotalPrice;
 
     public HotelBooking() {
     }
 
-    public HotelBooking(String hotelName, double pricePerNight, int numberOfNights) {
+    public HotelBooking(String hotelName, double pricePerNight, int numberOfNights, double TotalPrice) {
         this.hotelName = hotelName;
         this.pricePerNight = pricePerNight;
         this.numberOfNights = numberOfNights;
+        this.TotalPrice = TotalPrice;
     }
 
     public String getHotelName() {

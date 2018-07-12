@@ -23,10 +23,10 @@ public class DatabaseSeeder implements CommandLineRunner {
     public void run(String... args) throws Exception {
         List<HotelBooking> hotelBookingList = new ArrayList<>();
 
-        hotelBookingList.add(new HotelBooking("Orbis", 200, 3));
-        hotelBookingList.add(new HotelBooking("Neptun", 150, 6));
-        hotelBookingList.add(new HotelBooking("PZM", 90, 7));
-        hotelBookingList.add(new HotelBooking("IAI", 88, 9));
+        hotelBookingList.add(new HotelBooking("Orbis", 200, 3, 600));
+        hotelBookingList.add(new HotelBooking("Neptun", 150, 6, 900));
+        hotelBookingList.add(new HotelBooking("PZM", 90, 7, 720));
+        hotelBookingList.add(new HotelBooking("IAI", 88, 9, 792));
 
         bookingRepository.saveAll(hotelBookingList);
     }
