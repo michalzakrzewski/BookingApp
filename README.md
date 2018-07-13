@@ -1,4 +1,5 @@
 # BookingApp
+BookingDemo application
 # Tools
   - IntelliJ IDEA
   - Spring-Boot
