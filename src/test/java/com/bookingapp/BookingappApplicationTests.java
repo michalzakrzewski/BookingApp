@@ -1,4 +1,4 @@
-package com.boogkingapp;
+package com.bookingapp;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

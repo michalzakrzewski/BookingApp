@@ -1,4 +1,4 @@
-package com.boogkingapp.Controllers;
+package com.bookingapp.Controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

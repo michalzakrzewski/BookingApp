@@ -1,6 +1,6 @@
-package com.boogkingapp.Repository;
+package com.bookingapp.Repository;
 
-import com.boogkingapp.Model.HotelBooking;
+import com.bookingapp.Model.HotelBooking;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
