@@ -1,22 +1,21 @@
 ### Booking APP
-Hello! My name is Michal. I'm 24 years old. I'm looking for a first job with Java.
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
+## Spis treści
+* [O aplikacji](#o-aplikacji)
+* [Technologie](#technologie)
 
-## General info
-This project is simple BookingDemo application
+## O aplikacji
+TODO
 	
-## Technologies
-Project is created with:
+## Technologie
+Wykorzystane technologie
 * IntelliJ IDEA
 * Spring-Boot
-* Thymleaf
-* Sourcetree for github
-	
-## Setup
-To run this project, install it locally using...
+* Thymeleaf
+* Sourcetree(git)
+
+  
+ 
+  
   
  
   
