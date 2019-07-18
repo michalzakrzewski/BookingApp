@@ -4,13 +4,14 @@
 * [Technologie](#technologie)
 
 ## O aplikacji
-TODO
+Aplikacja CRUD wykorzystujaca 
 	
 ## Technologie
 Wykorzystane technologie
 * IntelliJ IDEA
 * Spring-Boot
 * Thymeleaf
+* PostgreSQL
 * Sourcetree(git)
 
   
