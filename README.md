@@ -4,7 +4,7 @@
 * [Technologie](#technologie)
 
 ## O aplikacji
-Aplikacja CRUD wykorzystujaca 
+Aplikacja CRUD wykorzystujaca spring-boot do zarządzania hotelami.
 	
 ## Technologie
 Wykorzystane technologie
