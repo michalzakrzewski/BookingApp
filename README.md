@@ -11,7 +11,7 @@ Wykorzystane technologie
 * IntelliJ IDEA
 * Spring-Boot
 * Thymeleaf
-* PostgreSQL
+* H2 Database
 * Sourcetree(git)
 
   
